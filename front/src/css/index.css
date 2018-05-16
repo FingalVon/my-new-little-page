@@ -1,0 +1,13 @@
+li {
+  list-style: none;
+}
+
+/*头像样式*/
+.head-img {
+  height:3.8rem;
+  width:3.8rem;
+  background-color: #999;
+  border:solid 0.1rem #fff;
+  margin:0.1rem;
+  box-sizing: border-box;
+}
